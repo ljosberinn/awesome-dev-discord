@@ -188,6 +188,19 @@ PRs welcome. Please mind the requirements:
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/hopsoft/stimulus_reflex">
+          <b>Stimulus Reflex</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/XveN625">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Build fully reactive sites with minimal JS in Rails or Django, letting the server do all the work and leaving your client light and fast.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://svelte.dev/">
           <b>Svelte</b>
         </a>
