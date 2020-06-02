@@ -16,7 +16,7 @@
 - in the url, copy the first ID in the pathname after `/channels/`
 - replace `SERVER_ID` in this url: `https://img.shields.io/discord/SERVER_ID?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square`
 - if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
-- if `widget disabled` shows up, please select `https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square` as img src instead
+- if `widget disabled` shows up, please select `https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square` as img  src instead
 
 ### Communities & Subreddits
 
@@ -159,6 +159,19 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://adonisjs.com/">
+          <b>AdonisJS</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/deno">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://deno.land/">
           <b>Deno</b>
         </a>
@@ -169,6 +182,19 @@
         </a>
       </td>
       <td>A secure runtime for JavaScript and TypeScript</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://elixir-lang.org/">
+          <b>Elixir</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/elixir">
+          <img src="https://img.shields.io/discord/269508806759809042?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Dynamic, functional language designed for building scalable and maintainable applications.</td>
     </tr>
     <tr>
       <td>
@@ -208,7 +234,72 @@
         </a>
       </td>
       <td>Modern Site Generator for Vue.js</td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>
+        <a href="https://flutter.dev/">
+          <b>Flutter</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/N7Yshp4">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://laravel.com/">
+          <b>Laravel</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/E6EKnWS">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The PHP Framework For Web Artisans</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.meteor.com/">
+          <b>Meteor</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/255GbrZ">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Isomorphic JavaScript web framework written using Node.js</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://nativescript.org/">
+          <b>NativeScript</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/tWatGYj">
+          <img src="https://img.shields.io/discord/603595811204366337?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://nestjs.com/">
+          <b>NestJS</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/G7Qnnhy">
+          <img src="https://img.shields.io/discord/520622812742811698?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A progressive Node.js framework</td>
+    </tr>
     <tr>
       <td>
         <a href="https://nuxtjs.org/">
@@ -224,6 +315,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.python.org/">
+          <b>Python</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/python">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>An interpreted, high-level, general-purpose programming language.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://quasar.dev/">
           <b>Quasar Framework</b>
         </a>
@@ -234,7 +338,7 @@
         </a>
       </td>
       <td>The Intuitive Vue Framework</td>
-    </tr>    
+    </tr>
     <tr>
       <td>
         <a href="https://www.reactiflux.com/">
@@ -250,6 +354,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://relay.dev/">
+          <b>Relay</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/A5KakZH">
+          <img src="https://img.shields.io/discord/235176658175262720?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The production-ready GraphQL client for React.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://reasonml.github.io/">
           <b>ReasonML</b>
         </a>
@@ -261,7 +378,20 @@
       </td>
       <td>Reason/ReasonML is a syntax extension and toolchain for OCaml</td>
     </tr>
-     <tr>
+    <tr>
+      <td>
+        <a href="https://www.ruby-lang.org/">
+          <b>Ruby</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/UyQnKrT">
+          <img src="https://img.shields.io/discord/518658712081268738?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A dynamic, open source programming language with a focus on simplicity and productivity.</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.rust-lang.org/">
           <b>Rust</b>
@@ -348,6 +478,19 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://bootstrap-vue.org/">
+          <b>bootstrap-vue</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/vwNzawa">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Quickly integrate Bootstrap v4 components with Vue.js.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://chakra-ui.com/">
           <b>@chakra-ui</b>
         </a>
@@ -374,6 +517,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://inkline.io/">
+          <b>Inkline</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/2w5UGnK">
+          <img src="https://img.shields.io/discord/550436704482492429?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://tailwindcss.com/">
           <b>TailwindCSS</b>
         </a>
@@ -385,6 +541,45 @@
       </td>
       <td>Highly customizable, low-level CSS framework</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://getuikit.com/">
+          <b>UIKit</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/NEt4Pv7">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A lightweight and modular front-end framework for developing fast and powerful web interfaces.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://vuematerial.io/">
+          <b>VueMaterial</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/vPPcaFx">
+          <img src="https://img.shields.io/discord/379653048798281729?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Material Design for Vue.js</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://vuetifyjs.com/">
+          <b>Vuetify</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/m9jP5vy">
+          <img src="https://img.shields.io/discord/340160225338195969?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Material Design component framework for Vue.js.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -392,6 +587,19 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://codesandbox.io/">
+          <b>CodeSandbox</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/V7PCUUW">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" /> 
+        </a>
+      </td>
+      <td>Online IDE for Rapid Web Development</td>
+    </tr>
     <tr>
       <td>
         <a href="http://eslint.org/">
@@ -457,9 +665,22 @@
       </td>
       <td>JavaScript style guide, linter, and formatter</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://storybook.js.org/">
+          <b>Storybook</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/NzrwbJ5">
+          <img src="https://img.shields.io/discord/486522875931656193?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>UI component explorer for frontend developers</td>
+    </tr>
   </tbody>
 </table>
-
+ 
 ### Conferences
 
 <table>
@@ -477,7 +698,7 @@
       </td>
       <td>An online full-day conference on all things Svelte</td>
     </tr>
-     <tr>
+    <tr>
       <td>
         <a href="https://www.react-europe.org/">
           <b>React Europe</b>
@@ -490,6 +711,19 @@
       </td>
       <td>The Original React Conference in Europe</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.frontenddeveloperlove.com/">
+          <b>FrontendLove Amsterdam</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/U2tzFPE">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The Largest & Most Epic JavaScript Conferences.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -499,8 +733,21 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://hasura.io/">
+          <b>Hasura</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/TDm7DqJ">
+          <img src="https://img.shields.io/discord/407792526867693568?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://tauri.studio/">
-          <b>Tauri Apps</b>
+          <b>Tauri</b>
         </a>
       </td>
       <td>
