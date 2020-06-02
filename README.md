@@ -615,6 +615,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://hasura.io/">
+          <b>Hasura</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/TDm7DqJ">
+          <img src="https://img.shields.io/discord/407792526867693568?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://miragejs.com/">
           <b>MirageJS</b>
         </a>
@@ -731,19 +744,6 @@
 
 <table>
   <tbody>
-    <tr>
-      <td>
-        <a href="https://hasura.io/">
-          <b>Hasura</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/TDm7DqJ">
-          <img src="https://img.shields.io/discord/407792526867693568?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend.</td>
-    </tr>
     <tr>
       <td>
         <a href="https://tauri.studio/">
