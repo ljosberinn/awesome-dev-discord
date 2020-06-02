@@ -211,6 +211,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://quasar.dev/">
+          <b>Quasar Framework</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/3yd2hUd">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The Intuitive Vue Framework</td>
+    </tr>    
+    <tr>
+      <td>
         <a href="https://www.reactiflux.com/">
           <b>Reactiflux</b>
         </a>
@@ -300,7 +313,19 @@
       </td>
       <td>A progressive, incrementally-adoptable JavaScript framework for building UI on the web</td>
     </tr>
-
+    <tr>
+      <td>
+        <a href="https://vuefront.com/">
+          <b>VueFront</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/C9vcTCQ">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site</td>
+    </tr>
   </tbody>
 </table>
 
