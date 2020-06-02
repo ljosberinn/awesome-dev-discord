@@ -1,4 +1,4 @@
-# awesome-developer-discord
+# awesome-dev-discord
 ## A curated list of official, development-related Discord server
 
 PRs welcome. Please mind the requirements:
