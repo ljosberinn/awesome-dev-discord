@@ -185,6 +185,19 @@
     </tr>
     <tr>
       <td>
+        <a href="gridsome.org">
+          <b>Gridsome</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/22ysRd3">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Modern Site Generator for Vue.js</td>
+    </tr>    
+    <tr>
+      <td>
         <a href="https://nuxtjs.org/">
           <b>Nuxt.js</b>
         </a>
