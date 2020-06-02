@@ -91,6 +91,23 @@ PRs welcome. Please mind the requirements:
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://discord.gg/c0debase">
+          <b>🇩🇪 c0debase</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/c0debase">
+          <img src="https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>---</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Frameworks, Languages & Libraries
 <table>
