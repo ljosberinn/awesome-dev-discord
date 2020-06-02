@@ -1,13 +1,25 @@
 # awesome-dev-discord
+
 ## A curated list of official, development-related Discord server
 
-PRs welcome. Please mind the requirements:
+**PRs welcome!** Please mind the requirements:
+
 - please add your links in alphabetical order
-- communities need **at least 250 members**
+- Community/Subreddit sever **should have more than 250 members**
 - **must be linked on official sites or at least endorsed by a core maintainer of the tool** (e.g. on Twitter) - please provide proof!
 - invite links must be set to `never expire`
 
+**How to retrieve a servers id for the widget**
+
+- open Discord in the browser and navigate to that server
+- OR, if you have `Developer Mode` active in Discord, simply rightclick a server and select `Copy ID`
+- in the url, copy the first ID in the pathname after `/channels/`
+- replace `SERVER_ID` in this url: `https://img.shields.io/discord/SERVER_ID?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square`
+- if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
+- if `widget disabled` shows up, please select `https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square` as img src instead
+
 ### Communities & Subreddits
+
 <table>
   <tbody>
     <tr>
@@ -113,6 +125,7 @@ PRs welcome. Please mind the requirements:
 </table>
 
 ### Frameworks, Languages & Libraries
+
 <table>
   <tbody>
     <tr>
@@ -248,8 +261,8 @@ PRs welcome. Please mind the requirements:
   </tbody>
 </table>
 
-
 ### Component Libraries & Styling
+
 <table>
   <tbody>
     <tr>
@@ -294,8 +307,8 @@ PRs welcome. Please mind the requirements:
   </tbody>
 </table>
 
-
 ### Tooling
+
 <table>
   <tbody>
     <tr>
@@ -366,8 +379,41 @@ PRs welcome. Please mind the requirements:
   </tbody>
 </table>
 
+### Conferences
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://sveltesociety.dev/">
+          <b>Svelte Society Day</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/n7PEQ5T">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>An online full-day conference on all things Svelte</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.react-europe.org/">
+          <b>React Europe</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/ySbfQzm">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The Original React Conference in Europe</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Other
+
 <table>
   <tbody>
     <tr>
@@ -385,6 +431,7 @@ PRs welcome. Please mind the requirements:
     </tr>
   </tbody>
 </table>
+
 
 ### Credits
 Flags provided by [Twemoji](https://twemoji.twitter.com/) under CC-BY 4.0.
