@@ -8,12 +8,14 @@ PRs welcome. Please mind the requirements:
 
 ### Communities & Subreddits
 - [devcord](https://discord.gg/devcord)
+- [houseparty.js](https://discord.gg/zfSTAsm)
 - [The Coding Den](https://discord.gg/code)
 - [SpeakJS](https://discord.gg/NEQuu2T)
 - [webdev and web_design](https://discord.gg/qfQdzhb)
 
 ### Frameworks, Languages & Libraries
 - [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
+- [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
 - [Reactiflux](https://discord.gg/reactiflux) - The world's largest React.js chat server
 - [ReasonML](https://discord.gg/BqTrSx5) - Reason/ReasonML is a syntax extension and toolchain for OCaml
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
@@ -30,6 +32,7 @@ PRs welcome. Please mind the requirements:
 - [MirageJS](https://discord.gg/jC3xwCF) - Build, test and demo your JavaScript application without an API.
 - [Rome](https://discord.gg/pukcWp) - An experimental JavaScript toolchain
 - [Sentry](https://discord.gg/h4kGd7j) - Application Monitoring and Error Tracking Software
+- [StandardJS](https://discord.gg/ZegqCBr) - JavaScript style guide, linter, and formatter
 
 ### Other
 - [Tauri Apps](https://discord.gg/TDm7DqJ) - Framework agnostic toolchain for building highly secure native apps
