@@ -23,6 +23,7 @@ PRs welcome. Please mind the requirements:
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
 - [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
 - [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
+- [Ember](https://discord.gg/emberjs) - A framework for ambitious web developers.
 
 ### Component Libraries & Styling
 - [@chakra-ui](https://discord.gg/eDWJFU5) - Simple, Modular and Accessible UI Components for your React Applications
