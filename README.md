@@ -91,6 +91,26 @@ PRs welcome. Please mind the requirements:
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
+      </td>
+      <td>
+        <a href="https://discord.gg/c0debase">
+           <b>c0debase</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/c0debase">
+          <img src="https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>---</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Frameworks, Languages & Libraries
 <table>
@@ -365,3 +385,6 @@ PRs welcome. Please mind the requirements:
     </tr>
   </tbody>
 </table>
+
+### Credits
+Flags provided by [Twemoji](https://twemoji.twitter.com/) under CC-BY 4.0.
