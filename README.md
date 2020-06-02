@@ -8,19 +8,19 @@ PRs welcome. Please mind the requirements:
 
 ### Communities & Subreddits
 - [devcord](https://discord.gg/devcord)
+- [houseparty.js](https://discord.gg/zfSTAsm)
 - [The Coding Den](https://discord.gg/code)
 - [SpeakJS](https://discord.gg/NEQuu2T)
 - [webdev and web_design](https://discord.gg/qfQdzhb)
-- [houseparty.js](https://discord.gg/zfSTAsm)
 
 ### Frameworks, Languages & Libraries
 - [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
+- [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
 - [Reactiflux](https://discord.gg/reactiflux) - The world's largest React.js chat server
 - [ReasonML](https://discord.gg/BqTrSx5) - Reason/ReasonML is a syntax extension and toolchain for OCaml
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
 - [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
 - [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
-- [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
 
 ### Component Libraries & Styling
 - [@chakra-ui](https://discord.gg/eDWJFU5) - Simple, Modular and Accessible UI Components for your React Applications
