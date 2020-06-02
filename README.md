@@ -5,7 +5,7 @@
 **PRs welcome!** Please mind the requirements:
 
 - please add your links in alphabetical order
-- Community/Subreddit sever **should have more than 250 members**
+- Community/Subreddit server **should have more than 250 members**
 - **must be linked on official sites or at least endorsed by a core maintainer of the tool** (e.g. on Twitter) - please provide proof!
 - invite links must be set to `never expire`
 
@@ -206,6 +206,19 @@
       </td>
       <td>Reason/ReasonML is a syntax extension and toolchain for OCaml</td>
     </tr>
+     <tr>
+      <td>
+        <a href="https://www.rust-lang.org/">
+          <b>Rust</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/eg33A3Y">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A language empowering everyone to build reliable and efficient software.</td>
+    </tr>
     <tr>
       <td>
         <a href="https://saber.land/">
@@ -258,6 +271,7 @@
       </td>
       <td>A progressive, incrementally-adoptable JavaScript framework for building UI on the web</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -432,6 +446,6 @@
   </tbody>
 </table>
 
-
 ### Credits
+
 Flags provided by [Twemoji](https://twemoji.twitter.com/) under CC-BY 4.0.
