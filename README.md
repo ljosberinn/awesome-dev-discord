@@ -50,6 +50,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://discord.gg/WZyyYtA">
+          <b>Digital Hackerspace</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/WZyyYtA">
+          <img src="https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Focused on hacking, making software, hardware and a mix of both</td>
+    </tr>    
+    <tr>
+      <td>
         <a href="https://discord.gg/zfSTAsm">
           <b>houseparty.js</b>
         </a>
@@ -172,7 +185,7 @@
     </tr>
     <tr>
       <td>
-        <a href="gatsbyjs.org">
+        <a href="https://gatsbyjs.org">
           <b>Gatsby</b>
         </a>
       </td>
@@ -183,6 +196,19 @@
       </td>
       <td>React framework to build blazing fast, modern apps and websites</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://gridsome.org">
+          <b>Gridsome</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/22ysRd3">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Modern Site Generator for Vue.js</td>
+    </tr>    
     <tr>
       <td>
         <a href="https://nuxtjs.org/">
@@ -196,6 +222,19 @@
       </td>
       <td>The Intuitive Vue Framework</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://quasar.dev/">
+          <b>Quasar Framework</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/3yd2hUd">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The Intuitive Vue Framework</td>
+    </tr>    
     <tr>
       <td>
         <a href="https://www.reactiflux.com/">
@@ -287,7 +326,19 @@
       </td>
       <td>A progressive, incrementally-adoptable JavaScript framework for building UI on the web</td>
     </tr>
-
+    <tr>
+      <td>
+        <a href="https://vuefront.com/">
+          <b>VueFront</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/C9vcTCQ">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site</td>
+    </tr>
   </tbody>
 </table>
 
