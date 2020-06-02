@@ -121,6 +121,22 @@
       </td>
       <td>---</td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
+      </td>
+      <td>
+        <a href="https://www.youtube.com/channel/UCh7ph-dzLSkixX2KUUM-Zyw">
+           <b>Unleashed Design</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/jpzF9TF">
+          <img src="https://img.shields.io/discord/348429944826626049?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>German, web design and development-focused Discord. Part of the YouTube channel <a href="https://www.youtube.com/user/TheDeepForces/">Unleashed Design</a>.</td>
+    </tr>    
   </tbody>
 </table>
 
