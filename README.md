@@ -11,6 +11,7 @@ PRs welcome. Please mind the requirements:
 - [devcord](https://discord.gg/devcord)
 - [houseparty.js](https://discord.gg/zfSTAsm)
 - [The Coding Den](https://discord.gg/code)
+- [The Programmer's Hangout](https://discord.gg/programming)
 - [SpeakJS](https://discord.gg/NEQuu2T)
 - [/r/webdev and web_design](https://discord.gg/qfQdzhb)
 
