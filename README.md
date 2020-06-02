@@ -354,19 +354,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://relay.dev/">
-          <b>Relay</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/A5KakZH">
-          <img src="https://img.shields.io/discord/235176658175262720?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The production-ready GraphQL client for React.</td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://reasonml.github.io/">
           <b>ReasonML</b>
         </a>
