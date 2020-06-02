@@ -11,6 +11,7 @@ PRs welcome. Please mind the requirements:
 - [The Coding Den](https://discord.gg/code)
 - [SpeakJS](https://discord.gg/NEQuu2T)
 - [webdev and web_design](https://discord.gg/qfQdzhb)
+- [houseparty.js](https://discord.gg/zfSTAsm)
 
 ### Frameworks, Languages & Libraries
 - [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
@@ -19,6 +20,7 @@ PRs welcome. Please mind the requirements:
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
 - [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
 - [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
+- [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
 
 ### Component Libraries & Styling
 - [@chakra-ui](https://discord.gg/eDWJFU5) - Simple, Modular and Accessible UI Components for your React Applications
@@ -30,6 +32,7 @@ PRs welcome. Please mind the requirements:
 - [MirageJS](https://discord.gg/jC3xwCF) - Build, test and demo your JavaScript application without an API.
 - [Rome](https://discord.gg/pukcWp) - An experimental JavaScript toolchain
 - [Sentry](https://discord.gg/h4kGd7j) - Application Monitoring and Error Tracking Software
+- [StandardJS](https://discord.gg/ZegqCBr) - JavaScript style guide, linter, and formatter
 
 ### Other
 - [Tauri Apps](https://discord.gg/TDm7DqJ) - Framework agnostic toolchain for building highly secure native apps
