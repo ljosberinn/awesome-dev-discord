@@ -50,6 +50,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://discord.gg/WZyyYtA">
+          <b>Digital Hackerspace</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/WZyyYtA">
+          <img src="https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Focused on hacking, making software, hardware and a mix of both</td>
+    </tr>    
+    <tr>
+      <td>
         <a href="https://discord.gg/zfSTAsm">
           <b>houseparty.js</b>
         </a>
