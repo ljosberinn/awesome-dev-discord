@@ -2,6 +2,7 @@
 ## A curated list of official, development-related Discord server
 
 PRs welcome. Please mind the requirements:
+- please add your links in alphabetical order
 - communities need **at least 250 members**
 - **must be linked on official sites or at least endorsed by a core maintainer of the tool** (e.g. on Twitter) - please provide proof!
 - invite links must be set to `never expire`
@@ -15,6 +16,7 @@ PRs welcome. Please mind the requirements:
 
 ### Frameworks, Languages & Libraries
 - [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
+- [Ember](https://discord.gg/emberjs) - A framework for ambitious web developers.
 - [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
 - [nuxt.js](https://discord.com/invite/b3dvQ9b) - The Intuitive Vue Framework
 - [Reactiflux](https://discord.gg/reactiflux) - The world's largest React.js chat server
@@ -23,7 +25,7 @@ PRs welcome. Please mind the requirements:
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
 - [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
 - [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
-- [Ember](https://discord.gg/emberjs) - A framework for ambitious web developers.
+
 
 ### Component Libraries & Styling
 - [@chakra-ui](https://discord.gg/eDWJFU5) - Simple, Modular and Accessible UI Components for your React Applications
