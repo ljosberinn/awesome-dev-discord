@@ -172,7 +172,7 @@
     </tr>
     <tr>
       <td>
-        <a href="gatsbyjs.org">
+        <a href="https://gatsbyjs.org">
           <b>Gatsby</b>
         </a>
       </td>
@@ -185,7 +185,7 @@
     </tr>
     <tr>
       <td>
-        <a href="gridsome.org">
+        <a href="https://gridsome.org">
           <b>Gridsome</b>
         </a>
       </td>
