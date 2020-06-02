@@ -2,8 +2,8 @@
 ## A curated list of official, development-related Discord server
 
 PRs welcome. Please mind the requirements:
-- communities need at least 1000 members
-- must be linked on official sites or at least endorsed by a core maintainer of the tool (e.g. on Twitter) - please provide proof!
+- communities need **at least 250 members**
+- **must be linked on official sites or at least endorsed by a core maintainer of the tool** (e.g. on Twitter) - please provide proof!
 - invite links must be set to `never expire`
 
 ### Communities & Subreddits
@@ -11,13 +11,15 @@ PRs welcome. Please mind the requirements:
 - [houseparty.js](https://discord.gg/zfSTAsm)
 - [The Coding Den](https://discord.gg/code)
 - [SpeakJS](https://discord.gg/NEQuu2T)
-- [webdev and web_design](https://discord.gg/qfQdzhb)
+- [/r/webdev and web_design](https://discord.gg/qfQdzhb)
 
 ### Frameworks, Languages & Libraries
 - [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
 - [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
+- [nuxt.js](https://discord.com/invite/b3dvQ9b) - The Intuitive Vue Framework
 - [Reactiflux](https://discord.gg/reactiflux) - The world's largest React.js chat server
 - [ReasonML](https://discord.gg/BqTrSx5) - Reason/ReasonML is a syntax extension and toolchain for OCaml
+- [Saber](https://discord.gg/kSqVgeW) - Build static sites in Vue.js, without the hassle
 - [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
 - [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
 - [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
