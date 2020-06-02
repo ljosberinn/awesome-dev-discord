@@ -135,7 +135,7 @@
           <img src="https://img.shields.io/discord/348429944826626049?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
         </a>
       </td>
-      <td>German, web design and development-focused Discord. Part of the YouTube channel <a href="https://www.youtube.com/user/TheDeepForces/">Unleashed Design</a>.</td>
+      <td>Web design and development-focused Discord</td>
     </tr>    
   </tbody>
 </table>
