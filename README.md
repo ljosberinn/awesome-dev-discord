@@ -97,7 +97,7 @@ PRs welcome. Please mind the requirements:
   <tbody>
     <tr>
       <td>
-        <a href="hhttps://deno.land/">
+        <a href="https://deno.land/">
           <b>Deno</b>
         </a>
       </td>
