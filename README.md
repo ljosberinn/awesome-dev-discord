@@ -8,25 +8,225 @@ PRs welcome. Please mind the requirements:
 - invite links must be set to `never expire`
 
 ### Communities & Subreddits
-- [devcord](https://discord.gg/devcord)
-- [houseparty.js](https://discord.gg/zfSTAsm)
-- [The Coding Den](https://discord.gg/code)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [SpeakJS](https://discord.gg/NEQuu2T)
-- [/r/webdev and web_design](https://discord.gg/qfQdzhb)
+<table>
+  <tbody>
+     <tr>
+        <td>
+          <a href="https://discord.gg/code">
+            <b>The Coding Den</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/code">
+            <img src="https://img.shields.io/discord/172018499005317120?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>---</td>
+      </tr>    
+      <tr>
+        <td>
+          <a href="https://discord.gg/devcord">
+            <b>devcord</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/devcord">
+            <img src="https://img.shields.io/discord/174075418410876928?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>Community that brings together web developers of all experience levels</td>
+      </tr>
+     <tr>
+        <td>
+          <a href="https://discord.gg/zfSTAsm">
+            <b>houseparty.js</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/zfSTAsm">
+            <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>General and for discussion around broad topics</td>
+      </tr>    
+     <tr>
+        <td>
+          <a href="https://theprogrammershangout.com/">
+            <b>The Programmer's Hangout</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/programming">
+            <img src="https://img.shields.io/discord/244230771232079873?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>A discord community geared towards programming</td>
+      </tr>               
+     <tr>
+        <td>
+          <a href="https://discord.gg/NEQuu2T">
+            <b>SpeakJS</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/NEQuu2T">
+            <img src="https://img.shields.io/discord/239433591950540801?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>JavaScript-focused Discord</td>
+      </tr>         
+     <tr>
+        <td>
+          <a href="https://discord.gg/qfQdzhb">
+            <b>/r/webdev and /r/web_design</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/qfQdzhb">
+            <img src="https://img.shields.io/discord/434487340535382016?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a> 
+        </td>
+        <td>r/webdev's and r/web_design's official Discord</td>
+      </tr>      
+  </tbody>
+</table>
 
 ### Frameworks, Languages & Libraries
-- [Deno](https://discord.gg/deno) - runtime for JavaScript & TypeScript
-- [Ember](https://discord.gg/emberjs) - A framework for ambitious web developers.
-- [Gatsby](https://discord.gg/br9rbUE) - Static Site Generator based on React
-- [nuxt.js](https://discord.com/invite/b3dvQ9b) - The Intuitive Vue Framework
-- [Reactiflux](https://discord.gg/reactiflux) - The world's largest React.js chat server
-- [ReasonML](https://discord.gg/BqTrSx5) - Reason/ReasonML is a syntax extension and toolchain for OCaml
-- [Saber](https://discord.gg/kSqVgeW) - Build static sites in Vue.js, without the hassle
-- [Svelte](https://discord.gg/gT2gbRQ) - Cybernetically enhanced web apps
-- [TypeScript](https://discord.gg/GKA8Vmz) - optional static type-checking along with the latest ECMAScript features.
-- [Vue](https://discord.gg/vue) - The Progressive JavaScript Framework.
 
+<table>
+  <tbody>
+      <tr>
+        <td>
+          <a href="hhttps://deno.land/">
+            <b>Deno</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/deno">
+            <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>A secure runtime for JavaScript and TypeScript</td>
+      </tr>   
+      <tr>
+        <td>
+          <a href="https://emberjs.com/">
+            <b>Ember.js</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/emberjs">
+            <img src="https://img.shields.io/discord/480462759797063690?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>A framework for ambitious web developers.</td>
+      </tr>      
+      <tr>
+        <td>
+          <a href="gatsbyjs.org">
+            <b>Gatsby</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/gatsby">
+            <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>React framework to build blazing fast, modern apps and websites</td>
+      </tr>        
+      <tr>
+        <td>
+          <a href="https://nuxtjs.org/">
+            <b>Nuxt.js</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/b3dvQ9b">
+            <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>The Intuitive Vue Framework</td>
+      </tr>     
+      <tr>
+        <td>
+          <a href="https://www.reactiflux.com/">
+            <b>Reactiflux</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/reactiflux">
+            <img src="https://img.shields.io/discord/102860784329052160?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>The world's largest React.js chat server</td>
+      </tr>    
+      <tr>
+        <td>
+          <a href="https://reasonml.github.io/">
+            <b>ReasonML</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/BqTrSx5">
+            <img src="https://img.shields.io/discord/235176658175262720?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>Reason/ReasonML is a syntax extension and toolchain for OCaml</td>
+      </tr> 
+      <tr>
+        <td>
+          <a href="https://saber.land/">
+            <b>Saber</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/kSqVgeW">
+            <img src="https://img.shields.io/discord/565431611521499137?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>Build static sites in Vue.js, without the hassle</td>
+      </tr>  
+      <tr>
+        <td>
+          <a href="https://svelte.dev/">
+            <b>Svelte</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/gT2gbRQ">
+            <img src="https://img.shields.io/discord/457912077277855764?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>Cybernetically enhanced web apps</td>
+      </tr> 
+      <tr>
+        <td>
+          <a href="https://www.typescriptlang.org/">
+            <b>TypeScript</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/GKA8Vmz">
+            <img src="https://img.shields.io/discord/508357248330760243?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>A superset of JavaScript that compiles to clean JavaScript output</td>
+      </tr>   
+      <tr>
+        <td>
+          <a href="https://vuejs.org/">
+            <b>Vue</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.gg/vue">
+            <img src="https://img.shields.io/discord/325477692906536972?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+          </a>
+        </td>
+        <td>A progressive, incrementally-adoptable JavaScript framework for building UI on the web</td>
+      </tr>                                  
+  </tbody>
+</table>
 
 ### Component Libraries & Styling
 - [@chakra-ui](https://discord.gg/eDWJFU5) - Simple, Modular and Accessible UI Components for your React Applications
