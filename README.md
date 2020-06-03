@@ -23,12 +23,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="200">
         <a href="https://discord.gg/code">
           <b>The Coding Den</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/code">
           <img src="https://img.shields.io/discord/172018499005317120?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -119,15 +119,15 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="45">
         <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
       </td>
-      <td>
+      <td width="155">
         <a href="https://discord.gg/c0debase">
            <b>c0debase</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/c0debase">
           <img src="https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -158,12 +158,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="200">
         <a href="https://adonisjs.com/">
           <b>AdonisJS</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/deno">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -464,12 +464,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="200">
         <a href="https://bootstrap-vue.org/">
           <b>bootstrap-vue</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/vwNzawa">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -575,12 +575,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="200">
         <a href="http://eslint.org/">
           <b>ESLint</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/8szcydm">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -673,12 +673,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width-"200">
         <a href="https://sveltesociety.dev/">
           <b>Svelte Society Day</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/n7PEQ5T">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
@@ -709,7 +709,7 @@
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
       </td>
-      <td>The Largest & Most Epic JavaScript Conferences.</td>
+      <td>The Largest and Most Epic JavaScript Conferences.</td>
     </tr>
   </tbody>
 </table>
@@ -719,12 +719,12 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="200">
         <a href="https://tauri.studio/">
           <b>Tauri</b>
         </a>
       </td>
-      <td>
+      <td width="130">
         <a href="https://discord.gg/TDm7DqJ">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
