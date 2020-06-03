@@ -76,19 +76,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://theprogrammershangout.com/">
-          <b>The Programmer's Hangout</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/programming">
-          <img src="https://img.shields.io/discord/244230771232079873?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A discord community geared towards programming</td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://discord.gg/NEQuu2T">
           <b>SpeakJS</b>
         </a>
