@@ -673,7 +673,7 @@
 <table>
   <tbody>
     <tr>
-      <td width-"200">
+      <td width="200">
         <a href="https://sveltesociety.dev/">
           <b>Svelte Society Day</b>
         </a>
