@@ -576,19 +576,6 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://codesandbox.io/">
-          <b>CodeSandbox</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/V7PCUUW">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" /> 
-        </a>
-      </td>
-      <td>Online IDE for Rapid Web Development</td>
-    </tr>
-    <tr>
-      <td>
         <a href="http://eslint.org/">
           <b>ESLint</b>
         </a>
