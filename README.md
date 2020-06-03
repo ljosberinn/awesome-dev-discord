@@ -151,7 +151,7 @@
         </a>
       </td>
       <td width="130">
-        <a href="https://discord.gg/deno">
+        <a href="https://discord.gg/vDcEjq6">
           <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
         </a>
       </td>
