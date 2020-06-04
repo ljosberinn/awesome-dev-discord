@@ -24,6 +24,19 @@
   <tbody>
     <tr>
       <td width="200">
+        <a href="https://discord.gg/XQ9C3sY">
+          <b>CodeSupport</b>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://discord.gg/XQ9C3sY">
+          <img src="https://img.shields.io/discord/240880736851329024?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A community dedicated to giving guidance about programming</td>
+    </tr>
+    <tr>
+      <td width="200">
         <a href="https://discord.gg/code">
           <b>The Coding Den</b>
         </a>
