@@ -46,7 +46,7 @@
           <img src="https://img.shields.io/discord/172018499005317120?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
         </a>
       </td>
-      <td>---</td>
+      <td>A programming server for everyone who is interested in coding</td>
     </tr>
     <tr>
       <td>
