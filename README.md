@@ -101,6 +101,19 @@
       <td>JavaScript-focused Discord</td>
     </tr>
     <tr>
+    <td>
+        <a href="https://discord.gg/UNxNyyH">
+          <b>VSCode</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/UNxNyyH">
+          <img src="https://img.shields.io/discord/470167643710816277?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Unofficial community for VSCode</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://discord.gg/qfQdzhb">
           <b>/r/webdev and /r/web_design</b>
