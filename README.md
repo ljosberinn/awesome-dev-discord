@@ -24,6 +24,19 @@
   <tbody>
     <tr>
       <td width="200">
+        <a href="https://discord.gg/8UU7XM5">
+          <b>Clojurians</b>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://discord.gg/8UU7XM5">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Community for Clojurescript</td>
+    </tr>
+    <tr>
+      <td width="200">
         <a href="https://discord.gg/XQ9C3sY">
           <b>CodeSupport</b>
         </a>
@@ -139,7 +152,7 @@
       </td>
       <td>General and for discussion around broad topics</td>
     </tr>
-     <tr>
+    <tr>
       <td>
         <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">
           <b>Lisp</b>
