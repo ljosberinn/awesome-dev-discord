@@ -128,6 +128,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://discord.gg/010z0Kw1A9ql5c1Qe">
+          <b>Programming</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/010z0Kw1A9ql5c1Qe">
+          <img src="https://img.shields.io/discord/181866934353133570?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming.</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://discord.gg/6chRQQ9">
           <b>Rust Programming Language Community</b>
         </a>
