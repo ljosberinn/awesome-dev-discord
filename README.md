@@ -282,6 +282,22 @@
         <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
       </td>
       <td>
+        <a href="https://hellocoding.de/discord-server">
+           <b>HelloCoding.de</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/XmvbJZD">
+          <img src="https://img.shields.io/discord/530141674463035402?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Dein neuer Discord Server mit dem Thema Programmieren!</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
+      </td>
+      <td>
         <a href="https://www.youtube.com/channel/UCh7ph-dzLSkixX2KUUM-Zyw">
            <b>Unleashed Design</b>
         </a>
@@ -292,7 +308,7 @@
         </a>
       </td>
       <td>Web design and development-focused Discord</td>
-    </tr>    
+    </tr>
   </tbody>
 </table>
 
