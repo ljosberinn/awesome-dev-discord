@@ -59,7 +59,7 @@
           <img src="https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
         </a>
       </td>
-      <td>---</td>
+      <td>For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc.<td>
     </tr>
     <tr>
       <td>
@@ -112,6 +112,19 @@
         </a>
       </td>
       <td>General and for discussion around broad topics</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://discord.gg/5ssDFZS">
+          <b>Low-Level Programming</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/5ssDFZS">
+          <img src="https://img.shields.io/discord/332740881683709955?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>For low-level/systems programming with C/C++/Rust/Assembly/etc.</td>
     </tr>
     <tr>
       <td>
