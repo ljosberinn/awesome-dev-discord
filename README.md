@@ -139,6 +139,19 @@
       </td>
       <td>General and for discussion around broad topics</td>
     </tr>
+     <tr>
+      <td>
+        <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">
+          <b>Lisp</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/hhk46CE">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Community for the Lisp language family</td>
+    </tr>
     <tr>
       <td>
         <a href="https://discord.gg/5ssDFZS">
