@@ -50,6 +50,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://discord.gg/JUj5FNQ">
+          <b>Data & Dev Ops</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/JUj5FNQ">
+          <img src="https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>---</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://discord.gg/devcord">
           <b>devcord</b>
         </a>
