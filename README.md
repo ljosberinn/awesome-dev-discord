@@ -115,6 +115,19 @@
     </tr>    
     <tr>
       <td>
+        <a href="https://discord.gg/3ahHtGt">
+          <b>Garbage Collectors</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/3ahHtGt">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Welcome to Garbage Collectors (GC). We try to focus on "long-term" mentoring/guidance.<td>
+    </tr>    
+    <tr>
+      <td>
         <a href="https://discord.gg/zfSTAsm">
           <b>houseparty.js</b>
         </a>
@@ -151,6 +164,19 @@
         </a>
       </td>
       <td>An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://discord.gg/cEJzdnt">
+          <b>Programming Buddies</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/cEJzdnt">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>The official /r/ProgrammingBuddies Discord server!</td>
     </tr>
     <tr>
       <td>
