@@ -49,6 +49,19 @@
       <td>A programming server for everyone who is interested in coding</td>
     </tr>
     <tr>
+      <td width="200">
+        <a href="https://discord.gg/rCMKcUU">
+          <b>C# Inn</b>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://discord.gg/rCMKcUU">
+          <img src="https://img.shields.io/discord/475671343463923714?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>Help, study, learn and coop! All while having fun and making friends at C# Inn</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://discord.gg/JUj5FNQ">
           <b>Data & Dev Ops</b>
