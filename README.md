@@ -481,6 +481,19 @@
         </a>
       </td>
       <td>Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://webassembly.org/">
+          <b>WebAssembly</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/ySQTFK6">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language</td>
     </tr>    
   </tbody>
 </table>
