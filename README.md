@@ -211,6 +211,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://en.wikipedia.org/wiki/DirectX">
+          <b>DirectX</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/MU4GAjM">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://elixir-lang.org/">
           <b>Elixir</b>
         </a>
