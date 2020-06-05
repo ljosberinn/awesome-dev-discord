@@ -73,6 +73,19 @@
         </a>
       </td>
       <td>Focused on hacking, making software, hardware and a mix of both</td>
+    </tr> 
+    <tr>
+      <td>
+        <a href="https://discord.gg/K6XHBSh">
+          <b>Functional Programming</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/K6XHBSh">
+          <img src="https://img.shields.io/discord/280033776820813825?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>---</td>
     </tr>    
     <tr>
       <td>
