@@ -12,11 +12,11 @@
 **How to retrieve a servers id for the widget**
 
 - open Discord in the browser and navigate to that server
-- OR, if you have `Developer Mode` active in Discord, simply rightclick a server and select `Copy ID`
 - in the url, copy the first ID in the pathname after `/channels/`
+- OR, if you have `Developer Mode` active in Discord, simply rightclick a server and select `Copy ID`
 - replace `SERVER_ID` in this url: `https://img.shields.io/discord/SERVER_ID?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square`
-- if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
 - if `widget disabled` shows up, please select `https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square` as img  src instead
+- if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
 
 ### Communities & Subreddits
 
@@ -89,6 +89,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://discord.gg/6chRQQ9">
+          <b>Rust Programming Language Community</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/6chRQQ9">
+          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
+        </a>
+      </td>
+      <td>---</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://discord.gg/NEQuu2T">
           <b>SpeakJS</b>
         </a>
@@ -101,7 +114,7 @@
       <td>JavaScript-focused Discord</td>
     </tr>
     <tr>
-    <td>
+      <td>
         <a href="https://discord.gg/UNxNyyH">
           <b>VSCode</b>
         </a>
@@ -468,7 +481,7 @@
         </a>
       </td>
       <td>Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site</td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
 
