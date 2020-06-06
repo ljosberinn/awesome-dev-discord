@@ -1,6 +1,164 @@
-# awesome-dev-discord
+ <p align="center">
+  <h1 align="center">Awesome Dev Discord</h1>
+  <p align="center">A curated list of official, development-related Discord server.<p>
+  <p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
+  </p>
+</p>
 
-## A curated list of official, development-related Discord server
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Server](#server)
+  - [Communities & Subreddits](#communities-&-subreddits)
+    - [German communities](#german-communities)
+  - [Frameworks, Languages & Libraries](#frameworks-languages-&-libraries)
+  - [Component Libraries & Styling](#component-libraries-&-styling)
+  - [Tooling](#tooling)
+  - [Conferences](#conferences)
+  - [Other](#other)
+- [Contributing](#contributing)
+- [Credits](#credits)
+
+[join]: https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square
+[code-support]: https://img.shields.io/discord/240880736851329024?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[the-coding-den]: https://img.shields.io/discord/172018499005317120?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[c#-inn]: https://img.shields.io/discord/475671343463923714?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[data-dev-ops]: https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[devcord]: https://img.shields.io/discord/174075418410876928?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[digital-hackerspace]: https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[functional-programming]: https://img.shields.io/discord/280033776820813825?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[low-level-programming]: https://img.shields.io/discord/332740881683709955?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[programming]: https://img.shields.io/discord/181866934353133570?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[speak-js]: https://img.shields.io/discord/239433591950540801?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[vscode]: https://img.shields.io/discord/470167643710816277?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[webdev-webdesign]: https://img.shields.io/discord/470167643710816277?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[c0debase]: https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[hello-coding]: https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[unleashed-design]: https://img.shields.io/discord/348429944826626049?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[elixir]: https://img.shields.io/discord/269508806759809042?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[ember]: https://img.shields.io/discord/480462759797063690?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[nativescript]: https://img.shields.io/discord/603595811204366337?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[nestjs]: https://img.shields.io/discord/520622812742811698?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[reactiflux]: https://img.shields.io/discord/102860784329052160?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[reasonml]: https://img.shields.io/discord/235176658175262720?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[ruby]: https://img.shields.io/discord/518658712081268738?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[saber]: https://img.shields.io/discord/565431611521499137?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[svelte]: https://img.shields.io/discord/457912077277855764?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[typescript]: https://img.shields.io/discord/508357248330760243?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[vue]: https://img.shields.io/discord/325477692906536972?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[inkline]: https://img.shields.io/discord/550436704482492429?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[tailwind]: https://img.shields.io/discord/486935104384532500?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[vuematerial]: https://img.shields.io/discord/379653048798281729?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[vuetify]: https://img.shields.io/discord/340160225338195969?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[hasura]: https://img.shields.io/discord/407792526867693568?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[sentry]: https://img.shields.io/discord/621778831602221064?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[standardjs]: https://img.shields.io/discord/612704110008991783?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[storybook]: https://img.shields.io/discord/486522875931656193?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+
+## Server
+
+### Communities & Subreddits
+
+| Name                                | Link                                                    | Description                                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Clojurians                          | [![join]](https://discord.gg/8UU7XM5)                   | Community for Clojurescript                                                                                                            |
+| CodeSupport                         | [![code-support]](https://discord.gg/XQ9C3sY)           | A community dedicated to giving guidance about programming                                                                             |
+| The Coding Den                      | [![code-support]](https://discord.gg/code)              | A programming server for everyone who is interested in coding                                                                          |
+| C# Inn                              | [![c#-inn]](https://discord.gg/rCMKcUU)                 | Help, study, learn and coop! All while having fun and making friends at C# Inn                                                         |
+| Data & Dev Ops                      | [![data-dev-ops]](https://discord.gg/JUj5FNQ)           | For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc.                                                         |
+| Devcord                             | [![devcord]](https://discord.gg/devcord)                | Community that brings together web developers of all experience levels                                                                 |
+| Digital Hackerspace                 | [![digital-hackerspace]](https://discord.gg/WZyyYtA)    | Focused on hacking, making software, hardware and a mix of both                                                                        |
+| Functional Programming              | [![functional-programming]](https://discord.gg/K6XHBSh) |                                                                                                                                        |
+| Garbage Collectors                  | [![join]](https://discord.gg/3ahHtGt)                   | Welcome to Garbage Collectors (GC). We try to focus on "long-term" mentoring/guidance.                                                 |
+| houseparty.js                       | [![join]](https://discord.gg/zfSTAsm)                   | General and for discussion around broad topics                                                                                         |
+| Lisp                                | [![join]](https://discord.gg/hhk46CE)                   | Community for the Lisp language family                                                                                                 |
+| Low-Level Programming               | [![low-level-programming]](https://discord.gg/5ssDFZS)  | For low-level/systems programming with C/C++/Rust/Assembly/etc.                                                                        |
+| Programming                         | [![programming]](https://discord.gg/010z0Kw1A9ql5c1Qe)  | An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming. |
+| Programming Buddies                 | [![join]](https://discord.gg/cEJzdnt)                   | The official /r/ProgrammingBuddies Discord server!                                                                                     |
+| Rust Programming Language Community | [![join]](https://discord.gg/6chRQQ9)                   |                                                                                                                                        |
+| SpeakJS                             | [![speak-js]](https://discord.gg/NEQuu2T)               | JavaScript-focused Discord                                                                                                             |
+| VSCode                              | [![vscode]](https://discord.gg/UNxNyyH)                 | Unofficial community for VSCode                                                                                                        |
+| /r/webdev and /r/web_design         | [![webdev-webdesign]](https://discord.gg/qfQdzhb)       | r/webdev's and r/web_design's official Discord                                                                                         |
+
+#### German communities
+
+| Name             | Link                                              | Description                                            |
+| ---------------- | ------------------------------------------------- | ------------------------------------------------------ |
+| c0debase         | [![c0debase]](https://discord.gg/kUsJxeJ)         |                                                        |
+| HelloCoding.de   | [![hello-coding]](https://discord.gg/XmvbJZD)     | Dein neuer Discord Server mit dem Thema Programmieren! |
+| Unleashed Design | [![unleashed-design]](https://discord.gg/jpzF9TF) | Web design and development-focused Discord             |
+
+### Frameworks, Languages & Libraries
+
+| Name                                          | Link                                           | Description                                                                                                                                                |
+| --------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AdonisJS](https://adonisjs.com/)             | [![join]](https://discord.gg/vDcEjq6)          | Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.                                                                 |
+| [Deno](https://deno.land/)                    | [![join]](https://discord.gg/deno)             | A secure runtime for JavaScript and TypeScript                                                                                                             |
+| DirectX                                       | [![join]](https://discord.gg/MU4GAjM)          | A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms |
+| [Elixir](https://elixir-lang.org/)            | [![elixir]](https://discord.gg/elixir)         | Dynamic, functional language designed for building scalable and maintainable applications.                                                                 |
+| [Ember.js](https://emberjs.com/)              | [![ember]](https://discord.gg/emberjs)         | A framework for ambitious web developers.                                                                                                                  |
+| [Gatsby](https://gatsbyjs.org)                | [![join]](https://discord.gg/gatsby)           | React framework to build blazing fast, modern apps and websites                                                                                            |
+| [Gridsome](https://gridsome.org)              | [![join]](https://discord.gg/22ysRd3)          | Modern Site Generator for Vue.js                                                                                                                           |
+| [Flutter](https://flutter.dev/)               | [![join]](https://discord.gg/N7Yshp4)          | Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.                            |
+| [Laravel](https://laravel.com/)               | [![join]](https://discord.gg/E6EKnWS)          | The PHP Framework For Web Artisans                                                                                                                         |
+| [Meteor](https://www.meteor.com/)             | [![join]](https://discord.gg/255GbrZ)          | Isomorphic JavaScript web framework written using Node.js                                                                                                  |
+| [NativeScript](https://nativescript.org/)     | [![nativescript]](https://discord.gg/tWatGYj)  | Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.                                               |
+| [NestJS](https://nestjs.com/)                 | [![nestjs]](https://discord.gg/G7Qnnhy)        | A progressive Node.js framework                                                                                                                            |
+| [Nuxt.js](https://nuxtjs.org/)                | [![join]](https://discord.gg/b3dvQ9b)          | The Intuitive Vue Framework                                                                                                                                |
+| [Python](https://www.python.org/)             | [![join]](https://discord.gg/python)           | An interpreted, high-level, general-purpose programming language.                                                                                          |
+| [Quasar Framework](https://quasar.dev/)       | [![join]](https://discord.gg/3yd2hUd)          | The Intuitive Vue Framework                                                                                                                                |
+| [Reactiflux](https://www.reactiflux.com/)     | [![reactiflux]](https://discord.gg/reactiflux) | The world's largest React.js chat server                                                                                                                   |
+| [ReasonML](https://reasonml.github.io/)       | [![reasonml]](https://discord.gg/BqTrSx5)      | Reason/ReasonML is a syntax extension and toolchain for OCaml                                                                                              |
+| [Ruby](https://www.ruby-lang.org/)            | [![ruby]](https://discord.gg/UyQnKrT)          | A dynamic, open source programming language with a focus on simplicity and productivity.                                                                   |
+| [Rust](https://www.rust-lang.org/)            | [![join]](https://discord.gg/eg33A3Y)          | A language empowering everyone to build reliable and efficient software.                                                                                   |
+| [Saber](https://saber.land/)                  | [![saber]](https://discord.gg/kSqVgeW)         | Build static sites in Vue.js, without the hassle                                                                                                           |
+| [Svelte](https://svelte.dev/)                 | [![svelte]](https://discord.gg/gT2gbRQ)        | Cybernetically enhanced web apps                                                                                                                           |
+| [TypeScript](https://www.typescriptlang.org/) | [![typescript]](https://discord.gg/GKA8Vmz)    | A superset of JavaScript that compiles to clean JavaScript output                                                                                          |
+| [Vue](https://vuejs.org/)                     | [![vue]](https://discord.gg/vue)               | A progressive, incrementally-adoptable JavaScript framework for building UI on the web                                                                     |
+| [VueFront](https://vuefront.com/)             | [![join]](https://discord.gg/C9vcTCQ)          | Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site                                                              |
+| [WebAssembly](https://webassembly.org/)       | [![join]](https://discord.gg/ySQTFK6)          | an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language                         |
+
+### Component Libraries & Styling
+
+| Name                                        | Link                                         | Description                                                                                    |
+| ------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [bootstrap-vue](https://bootstrap-vue.org/) | [![join]](https://discord.gg/vwNzawa)        | Quickly integrate Bootstrap v4 components with Vue.js.                                         |
+| [@chakra-ui](https://chakra-ui.com/)        | [![join]](https://discord.gg/eDWJFU5)        | Simple, Modular and Accessible UI Components for your React Applications                       |
+| [Buefy](https://buefy.github.io/)           | [![join]](https://discord.gg/ZkdFJMr)        | A lightweight library of responsive UI components for Vue.js based on Bulma                    |
+| [Inkline](https://inkline.io/)              | [![inkline]](https://discord.gg/2w5UGnK)     | modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.  |
+| [TailwindCSS](https://tailwindcss.com/)     | [![tailwind]](https://discord.gg/vPPcaFx)    | Highly customizable, low-level CSS framework                                                   |
+| [UIKit](https://getuikit.com/)              | [![join]](https://discord.gg/NEt4Pv7)        | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
+| [VueMaterial](https://vuematerial.io/)      | [![vuematerial]](https://discord.gg/RmJ93Sp) | Material Design for Vue.js                                                                     |
+| [Vuetify](https://vuetifyjs.com/)           | [![vuetify]](https://discord.gg/m9jP5vy)     | Material Design component framework for Vue.js.                                                |
+
+### Tooling
+
+| Name                                   | Link                                        | Description                                                                                                                  |
+| -------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [ESLint](https://eslint.org/)          | [![join]](https://discord.gg/8szcydm)       | A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript                             |
+| [Hasura](https://hasura.io/)           | [![hasura]](https://discord.gg/hasura)      | An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. |
+| [MirageJS](https://miragejs.com/)      | [![join]](https://discord.gg/jC3xwCF)       | Build, test and demo your JavaScript application without an API                                                              |
+| [Rome](https://romejs.dev/)            | [![join]](https://discord.gg/BsAUjhJ)       | An experimental JavaScript toolchain                                                                                         |
+| [Sentry](https://sentry.io/)           | [![sentry]](https://discord.gg/grP9TJv)     | Application Monitoring and Error Tracking Software                                                                           |
+| [StandardJS](https://standardjs.com/)  | [![standardjs]](https://discord.gg/ZegqCBr) | JavaScript style guide, linter, and formatter                                                                                |
+| [Storybook](https://storybook.js.org/) | [![storybook]](https://discord.gg/NzrwbJ5)  | UI component explorer for frontend developers                                                                                |
+
+### Conferences
+
+| Name                                                             | Link                                  | Description                                        |
+| ---------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| [FrontendLove Amsterdam](https://www.frontenddeveloperlove.com/) | [![join]](https://discord.gg/U2tzFPE) | The Largest and Most Epic JavaScript Conferences.  |
+| [React Europe](https://www.react-europe.org/)                    | [![join]](https://discord.gg/ySbfQzm) | The Original React Conference in Europe            |
+| [Svelte Society Day](https://sveltesociety.dev/)                 | [![join]](https://discord.gg/n7PEQ5T) | An online full-day conference on all things Svelte |
+
+### Other
+
+| Name                           | Link                                  | Description                                                         |
+| ------------------------------ | ------------------------------------- | ------------------------------------------------------------------- |
+| [Tauri](https://tauri.studio/) | [![join]](https://discord.gg/TDm7DqJ) | Framework agnostic toolchain for building highly secure native apps |
+
+## Contributing
 
 **PRs welcome!** Please mind the requirements:
 
@@ -14,911 +172,10 @@
 - open Discord in the browser and navigate to that server
 - in the url, copy the first ID in the pathname after `/channels/`
 - OR, if you have `Developer Mode` active in Discord, simply rightclick a server and select `Copy ID`
-- replace `SERVER_ID` in this url: `https://img.shields.io/discord/SERVER_ID?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square`
-- if `widget disabled` shows up, please select `https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square` as img  src instead
+- add it to the pile of variables near the top and replace the ID in the url
+- if `widget disabled` shows up, please use `[![join]](https://discord.gg/INVITE_HERE)` instead
 - if you happen to be the owner or an admin of said server, you can enable the widget in Discord under `Server Settings > Widget`
 
-### Communities & Subreddits
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="https://discord.gg/8UU7XM5">
-          <b>Clojurians</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/8UU7XM5">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Community for Clojurescript</td>
-    </tr>
-    <tr>
-      <td width="200">
-        <a href="https://discord.gg/XQ9C3sY">
-          <b>CodeSupport</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/XQ9C3sY">
-          <img src="https://img.shields.io/discord/240880736851329024?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A community dedicated to giving guidance about programming</td>
-    </tr>
-    <tr>
-      <td width="200">
-        <a href="https://discord.gg/code">
-          <b>The Coding Den</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/code">
-          <img src="https://img.shields.io/discord/172018499005317120?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A programming server for everyone who is interested in coding</td>
-    </tr>
-    <tr>
-      <td width="200">
-        <a href="https://discord.gg/rCMKcUU">
-          <b>C# Inn</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/rCMKcUU">
-          <img src="https://img.shields.io/discord/475671343463923714?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Help, study, learn and coop! All while having fun and making friends at C# Inn</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/JUj5FNQ">
-          <b>Data & Dev Ops</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/JUj5FNQ">
-          <img src="https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc.<td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/devcord">
-          <b>devcord</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/devcord">
-          <img src="https://img.shields.io/discord/174075418410876928?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Community that brings together web developers of all experience levels</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/WZyyYtA">
-          <b>Digital Hackerspace</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/WZyyYtA">
-          <img src="https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Focused on hacking, making software, hardware and a mix of both</td>
-    </tr> 
-    <tr>
-      <td>
-        <a href="https://discord.gg/K6XHBSh">
-          <b>Functional Programming</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/K6XHBSh">
-          <img src="https://img.shields.io/discord/280033776820813825?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>---</td>
-    </tr>    
-    <tr>
-      <td>
-        <a href="https://discord.gg/3ahHtGt">
-          <b>Garbage Collectors</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/3ahHtGt">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Welcome to Garbage Collectors (GC). We try to focus on "long-term" mentoring/guidance.<td>
-    </tr>    
-    <tr>
-      <td>
-        <a href="https://discord.gg/zfSTAsm">
-          <b>houseparty.js</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/zfSTAsm">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>General and for discussion around broad topics</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">
-          <b>Lisp</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/hhk46CE">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Community for the Lisp language family</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/5ssDFZS">
-          <b>Low-Level Programming</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/5ssDFZS">
-          <img src="https://img.shields.io/discord/332740881683709955?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>For low-level/systems programming with C/C++/Rust/Assembly/etc.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/010z0Kw1A9ql5c1Qe">
-          <b>Programming</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/010z0Kw1A9ql5c1Qe">
-          <img src="https://img.shields.io/discord/181866934353133570?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An active community around various programming languages, operating systems, as well as hardware, security, and low-level programming.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/cEJzdnt">
-          <b>Programming Buddies</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/cEJzdnt">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The official /r/ProgrammingBuddies Discord server!</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/6chRQQ9">
-          <b>Rust Programming Language Community</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/6chRQQ9">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>---</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/NEQuu2T">
-          <b>SpeakJS</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/NEQuu2T">
-          <img src="https://img.shields.io/discord/239433591950540801?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>JavaScript-focused Discord</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/UNxNyyH">
-          <b>VSCode</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/UNxNyyH">
-          <img src="https://img.shields.io/discord/470167643710816277?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Unofficial community for VSCode</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.gg/qfQdzhb">
-          <b>/r/webdev and /r/web_design</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/qfQdzhb">
-          <img src="https://img.shields.io/discord/434487340535382016?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>r/webdev's and r/web_design's official Discord</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td width="45">
-        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
-      </td>
-      <td width="155">
-        <a href="https://discord.gg/c0debase">
-           <b>c0debase</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/c0debase">
-          <img src="https://img.shields.io/discord/361448651748540426?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>---</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
-      </td>
-      <td>
-        <a href="https://hellocoding.de/discord-server">
-           <b>HelloCoding.de</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/XmvbJZD">
-          <img src="https://img.shields.io/discord/530141674463035402?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Dein neuer Discord Server mit dem Thema Programmieren!</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e9-1f1ea.png" height="20" />
-      </td>
-      <td>
-        <a href="https://www.youtube.com/channel/UCh7ph-dzLSkixX2KUUM-Zyw">
-           <b>Unleashed Design</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/jpzF9TF">
-          <img src="https://img.shields.io/discord/348429944826626049?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Web design and development-focused Discord</td>
-    </tr>
-  </tbody>
-</table>
-
-### Frameworks, Languages & Libraries
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="https://adonisjs.com/">
-          <b>AdonisJS</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/vDcEjq6">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://deno.land/">
-          <b>Deno</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/deno">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A secure runtime for JavaScript and TypeScript</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://en.wikipedia.org/wiki/DirectX">
-          <b>DirectX</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/MU4GAjM">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://elixir-lang.org/">
-          <b>Elixir</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/elixir">
-          <img src="https://img.shields.io/discord/269508806759809042?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Dynamic, functional language designed for building scalable and maintainable applications.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://emberjs.com/">
-          <b>Ember.js</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/emberjs">
-          <img src="https://img.shields.io/discord/480462759797063690?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A framework for ambitious web developers.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://gatsbyjs.org">
-          <b>Gatsby</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/gatsby">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>React framework to build blazing fast, modern apps and websites</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://gridsome.org">
-          <b>Gridsome</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/22ysRd3">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Modern Site Generator for Vue.js</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://flutter.dev/">
-          <b>Flutter</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/N7Yshp4">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://laravel.com/">
-          <b>Laravel</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/E6EKnWS">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The PHP Framework For Web Artisans</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.meteor.com/">
-          <b>Meteor</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/255GbrZ">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Isomorphic JavaScript web framework written using Node.js</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://nativescript.org/">
-          <b>NativeScript</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/tWatGYj">
-          <img src="https://img.shields.io/discord/603595811204366337?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://nestjs.com/">
-          <b>NestJS</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/G7Qnnhy">
-          <img src="https://img.shields.io/discord/520622812742811698?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A progressive Node.js framework</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://nuxtjs.org/">
-          <b>Nuxt.js</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/b3dvQ9b">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The Intuitive Vue Framework</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.python.org/">
-          <b>Python</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/python">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An interpreted, high-level, general-purpose programming language.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://quasar.dev/">
-          <b>Quasar Framework</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/3yd2hUd">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The Intuitive Vue Framework</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.reactiflux.com/">
-          <b>Reactiflux</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/reactiflux">
-          <img src="https://img.shields.io/discord/102860784329052160?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The world's largest React.js chat server</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://reasonml.github.io/">
-          <b>ReasonML</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/BqTrSx5">
-          <img src="https://img.shields.io/discord/235176658175262720?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Reason/ReasonML is a syntax extension and toolchain for OCaml</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.ruby-lang.org/">
-          <b>Ruby</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/UyQnKrT">
-          <img src="https://img.shields.io/discord/518658712081268738?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A dynamic, open source programming language with a focus on simplicity and productivity.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.rust-lang.org/">
-          <b>Rust</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/eg33A3Y">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A language empowering everyone to build reliable and efficient software.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://saber.land/">
-          <b>Saber</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/kSqVgeW">
-          <img src="https://img.shields.io/discord/565431611521499137?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Build static sites in Vue.js, without the hassle</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://svelte.dev/">
-          <b>Svelte</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/gT2gbRQ">
-          <img src="https://img.shields.io/discord/457912077277855764?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Cybernetically enhanced web apps</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.typescriptlang.org/">
-          <b>TypeScript</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/GKA8Vmz">
-          <img src="https://img.shields.io/discord/508357248330760243?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A superset of JavaScript that compiles to clean JavaScript output</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vuejs.org/">
-          <b>Vue</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/vue">
-          <img src="https://img.shields.io/discord/325477692906536972?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A progressive, incrementally-adoptable JavaScript framework for building UI on the web</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vuefront.com/">
-          <b>VueFront</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/C9vcTCQ">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Vue Powered CMS agnostic PWA and SPA frontend for your old-fashioned Blog and E-commerce site</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://webassembly.org/">
-          <b>WebAssembly</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/ySQTFK6">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language</td>
-    </tr>    
-  </tbody>
-</table>
-
-### Component Libraries & Styling
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="https://bootstrap-vue.org/">
-          <b>bootstrap-vue</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/vwNzawa">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Quickly integrate Bootstrap v4 components with Vue.js.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://chakra-ui.com/">
-          <b>@chakra-ui</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/eDWJFU5">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Simple, Modular and Accessible UI Components for your React Applications</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://buefy.github.io/">
-          <b>Buefy</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/ZkdFJMr">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A lightweight library of responsive UI components for Vue.js based on Bulma</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://inkline.io/">
-          <b>Inkline</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/2w5UGnK">
-          <img src="https://img.shields.io/discord/550436704482492429?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://tailwindcss.com/">
-          <b>TailwindCSS</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/vPPcaFx">
-          <img src="https://img.shields.io/discord/486935104384532500?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Highly customizable, low-level CSS framework</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://getuikit.com/">
-          <b>UIKit</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/NEt4Pv7">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A lightweight and modular front-end framework for developing fast and powerful web interfaces.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vuematerial.io/">
-          <b>VueMaterial</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/vPPcaFx">
-          <img src="https://img.shields.io/discord/379653048798281729?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Material Design for Vue.js</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vuetifyjs.com/">
-          <b>Vuetify</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/m9jP5vy">
-          <img src="https://img.shields.io/discord/340160225338195969?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Material Design component framework for Vue.js.</td>
-    </tr>
-  </tbody>
-</table>
-
-### Tooling
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="http://eslint.org/">
-          <b>ESLint</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/8szcydm">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://hasura.io/">
-          <b>Hasura</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/TDm7DqJ">
-          <img src="https://img.shields.io/discord/407792526867693568?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://miragejs.com/">
-          <b>MirageJS</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/jC3xwCF">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Build, test and demo your JavaScript application without an API</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://romejs.dev/">
-          <b>Rome</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/pukcWp">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An experimental JavaScript toolchain</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://sentry.io/">
-          <b>Sentry</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/pukcWp">
-          <img src="https://img.shields.io/discord/621778831602221064?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Application Monitoring and Error Tracking Software</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://standardjs.com/">
-          <b>StandardJS</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/ZegqCBr">
-          <img src="https://img.shields.io/discord/612704110008991783?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>JavaScript style guide, linter, and formatter</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://storybook.js.org/">
-          <b>Storybook</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/NzrwbJ5">
-          <img src="https://img.shields.io/discord/486522875931656193?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>UI component explorer for frontend developers</td>
-    </tr>
-  </tbody>
-</table>
- 
-### Conferences
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="https://sveltesociety.dev/">
-          <b>Svelte Society Day</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/n7PEQ5T">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>An online full-day conference on all things Svelte</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.react-europe.org/">
-          <b>React Europe</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/ySbfQzm">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The Original React Conference in Europe</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.frontenddeveloperlove.com/">
-          <b>FrontendLove Amsterdam</b>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.gg/U2tzFPE">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>The Largest and Most Epic JavaScript Conferences.</td>
-    </tr>
-  </tbody>
-</table>
-
-### Other
-
-<table>
-  <tbody>
-    <tr>
-      <td width="200">
-        <a href="https://tauri.studio/">
-          <b>Tauri</b>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://discord.gg/TDm7DqJ">
-          <img src="https://img.shields.io/badge/%20-join-%237289DA?logo=discord&logoColor=white&style=flat-square" />
-        </a>
-      </td>
-      <td>Framework agnostic toolchain for building highly secure native apps</td>
-    </tr>
-  </tbody>
-</table>
-
-### Credits
+## Credits
 
 Flags provided by [Twemoji](https://twemoji.twitter.com/) under CC-BY 4.0.
