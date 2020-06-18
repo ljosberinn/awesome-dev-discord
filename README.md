@@ -56,7 +56,7 @@
 [standardjs]: https://img.shields.io/discord/612704110008991783?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [storybook]: https://img.shields.io/discord/486522875931656193?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [discordai]: https://img.shields.io/discord/167811324590424065?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
-[rmachinelearning]: https://img.shields.io/discord/332578717752754196?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[rlml]: https://img.shields.io/discord/332578717752754196?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 
 ## Server
 
@@ -148,10 +148,10 @@
 
 ### Machine Learning
 
-| Name                                                               | Link                                             | Description                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Discord Artificial Intelligence](https://discordnetwork.com/)     | [![discordai]](https://discord.sg/ai)            | DISCORD™ ARTIFICIAL INTELLIGENCE, an online community for those interested in engaging in imaginative and intelligent discussion of artificial intelligence, machine learning, and natural language processing as well as general mathematics and computer science. |
-| [r/MachineLearning](https://www.reddit.com/r/learnmachinelearning) | [![rMachineLearning]](https://discord.gg/5kTPkb) | A beginner-friendly sub-reddit for learning machine learning.                                                                                                                                                                                                       |
+| Name                                                                    | Link                                  | Description                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Discord Artificial Intelligence](https://discordnetwork.com/)          | [![discordai]](https://discord.sg/ai) | DISCORD™ ARTIFICIAL INTELLIGENCE, an online community for those interested in engaging in imaginative and intelligent discussion of artificial intelligence, machine learning, and natural language processing as well as general mathematics and computer science. |
+| [r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning) | [![rlml]](https://discord.gg/5kTPkb)  | A beginner-friendly sub-reddit for learning machine learning.                                                                                                                                                                                                       |
 
 ### Conferences
 
