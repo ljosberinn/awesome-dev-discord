@@ -136,15 +136,16 @@
 
 ### Tooling
 
-| Name                                   | Link                                        | Description                                                                                                                  |
-| -------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [ESLint](https://eslint.org/)          | [![join]](https://discord.gg/8szcydm)       | A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript                             |
-| [Hasura](https://hasura.io/)           | [![hasura]](https://discord.gg/hasura)      | An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. |
-| [MirageJS](https://miragejs.com/)      | [![join]](https://discord.gg/jC3xwCF)       | Build, test and demo your JavaScript application without an API                                                              |
-| [Rome](https://romejs.dev/)            | [![join]](https://discord.gg/BsAUjhJ)       | An experimental JavaScript toolchain                                                                                         |
-| [Sentry](https://sentry.io/)           | [![sentry]](https://discord.gg/grP9TJv)     | Application Monitoring and Error Tracking Software                                                                           |
-| [StandardJS](https://standardjs.com/)  | [![standardjs]](https://discord.gg/ZegqCBr) | JavaScript style guide, linter, and formatter                                                                                |
-| [Storybook](https://storybook.js.org/) | [![storybook]](https://discord.gg/NzrwbJ5)  | UI component explorer for frontend developers                                                                                |
+| Name                                           | Link                                          | Description                                                                                                                  |
+| ---------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [ESLint](https://eslint.org/)                  | [![join]](https://discord.gg/8szcydm)         | A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript                             |
+| [Hasura](https://hasura.io/)                   | [![hasura]](https://discord.gg/hasura)        | An open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. |
+| [MirageJS](https://miragejs.com/)              | [![join]](https://discord.gg/jC3xwCF)         | Build, test and demo your JavaScript application without an API                                                              |
+| [Rome](https://romejs.dev/)                    | [![join]](https://discord.gg/BsAUjhJ)         | An experimental JavaScript toolchain                                                                                         |
+| [Sentry](https://sentry.io/)                   | [![sentry]](https://discord.gg/grP9TJv)       | Application Monitoring and Error Tracking Software                                                                           |
+| [StandardJS](https://standardjs.com/)          | [![standardjs]](https://discord.gg/ZegqCBr)   | JavaScript style guide, linter, and formatter                                                                                |
+| [Storybook](https://storybook.js.org/)         | [![storybook]](https://discord.gg/NzrwbJ5)    | UI component explorer for frontend developers                                                                                |
+| [Testing Library](http://testing-library.com/) | [![join]](https://discord.com/invite/c6JN9fM) | Simple and complete testing utilities that encourage good testing practices                                                  |
 
 ### Machine Learning
 
