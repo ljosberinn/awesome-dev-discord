@@ -4,6 +4,9 @@
   <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
   </p>
+  <p align="center">
+   <a href="https://dev-discords.now.sh/">view as website</a>
+  </p>
 </p>
 
 ## Table of Contents
