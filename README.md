@@ -30,6 +30,7 @@
 [data-dev-ops]: https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [devcord]: https://img.shields.io/discord/174075418410876928?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [digital-hackerspace]: https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[front-end-developers]: https://img.shields.io/discord/247708578071183372?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [functional-programming]: https://img.shields.io/discord/280033776820813825?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [low-level-programming]: https://img.shields.io/discord/332740881683709955?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [programming]: https://img.shields.io/discord/181866934353133570?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
@@ -74,6 +75,7 @@
 | Data & Dev Ops                      | [![data-dev-ops]](https://discord.gg/JUj5FNQ)           | For everything related to databases & devops with PostgreSQL/Ansible/Bash/etc.                                                         |
 | Devcord                             | [![devcord]](https://discord.gg/devcord)                | Community that brings together web developers of all experience levels                                                                 |
 | Digital Hackerspace                 | [![digital-hackerspace]](https://discord.gg/WZyyYtA)    | Focused on hacking, making software, hardware and a mix of both                                                                        |
+| Front-end Developers.               | [![Front-end-developers]](https://discord.gg/XHsumw2C39) | Friendly creative web developer Discord community of passionate front-end developers.                                       |
 | Functional Programming              | [![functional-programming]](https://discord.gg/K6XHBSh) |                                                                                                                                        |
 | Garbage Collectors                  | [![join]](https://discord.gg/3ahHtGt)                   | Welcome to Garbage Collectors (GC). We try to focus on "long-term" mentoring/guidance.                                                 |
 | Galsen Dev                  | [![join]](https://discord.gg/CKZcKqf)                   | The largest community of Senegalese developers                                                 |
