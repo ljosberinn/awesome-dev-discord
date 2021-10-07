@@ -30,6 +30,7 @@
 [data-dev-ops]: https://img.shields.io/discord/321063618311356416?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [devcord]: https://img.shields.io/discord/174075418410876928?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [digital-hackerspace]: https://img.shields.io/discord/565788276397441025?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
+[front-end-developers]: https://img.shields.io/discord/247708578071183372?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [functional-programming]: https://img.shields.io/discord/280033776820813825?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [low-level-programming]: https://img.shields.io/discord/332740881683709955?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
 [programming]: https://img.shields.io/discord/181866934353133570?color=%237289DA&label=%20&logo=discord&logoColor=white&style=flat-square
